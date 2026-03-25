@@ -40,9 +40,15 @@ sections:
         blurb: Group researcher and mentor.
         focus: Turning robot dogs into guide dogs for blind/low-vision people.
         tags:
+          - robotics
+          - vision
           - embodied-ai
           - accessibility
-        links: {}
+        links:
+          github: https://github.com/fgolemo
+          twitter: https://x.com/shoddy_robots
+          website: https://fgolemo.github.io
+          scholar: https://scholar.google.com/citations?user=qvRf9xsAAAAJ&hl=en
       - name: Martin Weiss
         role: Postdoc
         email: martin@tiptreesystems.com
@@ -211,6 +217,19 @@ sections:
 
   - title: Collaborators
     members:
+      - name: Joanna Wolski
+        role: Collaborator
+        email: joannawolski@gmail.com
+        headshot: /assets/images/headshots/joanna_wolski.png
+        blurb: External collaborator working with the group.
+        focus: Working on turning a robot dog into a guide dog for blind/low-vision people.
+        tags:
+          - robotics
+          - vision
+          - embodied-ai
+          - accessibility
+        links:
+          github: https://github.com/jowsk
       - name: Mai Ababneh
         role: Collaborator
         email: mai.ababneh@mila.quebec
